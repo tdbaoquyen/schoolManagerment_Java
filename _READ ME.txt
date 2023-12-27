@@ -1,0 +1,8 @@
+## Practise Java basic code to create School Management:
+
+- Create class: Student with attributes and methods
+- Create class: MainScreen with methods:
+	1. Enter information of each Student
+	2. Print out all information of Students
+	3. Sort all Students by finalGrade attribute
+	4. Calculate the Average final Score of all Students
